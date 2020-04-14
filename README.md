@@ -4,4 +4,4 @@ Introduction/Business Problem
 - I am looking to set up a new Italian restaurant in Toronto in a neighborhood that has the least number of Italian restaurants, so as to maximise my chance of success.
 
 Data
-- I will be using the Foursquare location data to analyze the number of Italian restaurants in each neighborhood##
+- I will be using the Foursquare location data to analyze the number of Italian restaurants in each neighborhood
